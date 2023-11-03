@@ -3,7 +3,6 @@
 Projet de 2 développeur sur un période de 2 semaines, nous avons tout les deux touché au front-end et au back-end malgré que je me soit plus impliqué dans le coté Back-end du projet.
 
 dependences : 
-
         Back-end :
                 chai : 4.3.10
                 cors : 2.8.5
