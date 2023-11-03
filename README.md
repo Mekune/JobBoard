@@ -4,7 +4,7 @@ Projet de 2 développeur sur un période de 2 semaines, nous avons tout les deux
 
 dependences : 
         Back-end :
-                chai : 4.3.10
+                chai : 4.3.10 </br>
                 cors : 2.8.5
                 crypto: 1.0.1
                 express: 4.18.2
