@@ -1,10 +1,20 @@
-# JobBoard
-
 Projet de 2 développeurs sur une période de 2 semaines. Nous avons tous les deux travaillé sur le front-end et le back-end, bien que je me sois plus impliqué dans le côté back-end du projet.
 
-## Dépendances
+## Description
+  - objectif : Faire un site web de JoabBoard
+  - durée : 2 semaines
+  - période éfféctué : début L3 PRÉ-MSC - Epitech
+  - collaborateurs :
+      - Simon CINTRAT https://github.com/Strytfire
 
-### Back-end
+## Module et langage utilisé
+### Langage
+  - Python
+### librairie
+  - pygame
+### Dépendances
+
+#### Back-end
 
 - chai: 4.3.10
 - cors: 2.8.5
@@ -14,7 +24,7 @@ Projet de 2 développeurs sur une période de 2 semaines. Nous avons tous les de
 - mocha: 10.2.0
 - mysql: 2.18.1
 
-### Front-end
+#### Front-end
 
 - axios: 1.5.1
 - sass: 1.69.3
