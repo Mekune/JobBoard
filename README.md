@@ -3,6 +3,7 @@
   - durée : 2 semaines
   - période éfféctué : début L3 PRÉ-MSC - Epitech
   - collaborateurs :
+    
       - Simon CINTRAT https://github.com/Strytfire
 
 ## Module et langage utilisé
