@@ -1,5 +1,3 @@
-Projet de 2 développeurs sur une période de 2 semaines. Nous avons tous les deux travaillé sur le front-end et le back-end, bien que je me sois plus impliqué dans le côté back-end du projet.
-
 ## Description
   - objectif : Faire un site web de JoabBoard
   - durée : 2 semaines
@@ -9,22 +7,9 @@ Projet de 2 développeurs sur une période de 2 semaines. Nous avons tous les de
 
 ## Module et langage utilisé
 ### Langage
-  - Python
-### librairie
-  - pygame
-### Dépendances
-
-#### Back-end
-
-- chai: 4.3.10
-- cors: 2.8.5
-- crypto: 1.0.1
-- express: 4.18.2
-- express-session: 1.17.3
-- mocha: 10.2.0
-- mysql: 2.18.1
-
-#### Front-end
+  - JavaScript
+### Framework & Dépendances Front-End
+- Vue.js
 
 - axios: 1.5.1
 - sass: 1.69.3
@@ -34,3 +19,14 @@ Projet de 2 développeurs sur une période de 2 semaines. Nous avons tous les de
 - vue-cookies: 1.8.3
 - vue-router: 4.2.5
 - vuex: 4.1.0
+  
+### Framework & Dépendances Back-End
+- Express.js(Node.js)
+
+- chai: 4.3.10
+- cors: 2.8.5
+- crypto: 1.0.1
+- express: 4.18.2
+- express-session: 1.17.3
+- mocha: 10.2.0
+- mysql: 2.18.1
